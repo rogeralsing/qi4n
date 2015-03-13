@@ -1,0 +1,11 @@
+C:\Projects\tmp\QI4N\TestHost\bin\Debug\ConsoleApplication23.exe
+C:\Projects\tmp\QI4N\TestHost\bin\Debug\ConsoleApplication23.pdb
+C:\Projects\tmp\QI4N\TestHost\bin\Debug\QI4N.Framework.API.dll
+C:\Projects\tmp\QI4N\TestHost\bin\Debug\QI4N.Framework.Bootstrap.dll
+C:\Projects\tmp\QI4N\TestHost\bin\Debug\QI4N.Framework.Runtime.dll
+C:\Projects\tmp\QI4N\TestHost\bin\Debug\QI4N.Framework.Bootstrap.pdb
+C:\Projects\tmp\QI4N\TestHost\bin\Debug\QI4N.Framework.Runtime.pdb
+C:\Projects\tmp\QI4N\TestHost\bin\Debug\QI4N.Framework.API.pdb
+C:\Projects\tmp\QI4N\TestHost\obj\Debug\ConsoleApplication23.csprojResolveAssemblyReference.cache
+C:\Projects\tmp\QI4N\TestHost\obj\Debug\ConsoleApplication23.exe
+C:\Projects\tmp\QI4N\TestHost\obj\Debug\ConsoleApplication23.pdb

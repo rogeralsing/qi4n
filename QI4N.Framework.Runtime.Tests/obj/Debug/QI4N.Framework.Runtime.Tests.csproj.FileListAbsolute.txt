@@ -1,0 +1,4 @@
+C:\Projects\tmp\QI4N\QI4N.Framework.Runtime.Tests\bin\Debug\QI4N.Framework.Runtime.Tests.dll
+C:\Projects\tmp\QI4N\QI4N.Framework.Runtime.Tests\bin\Debug\QI4N.Framework.Runtime.Tests.pdb
+C:\Projects\tmp\QI4N\QI4N.Framework.Runtime.Tests\obj\Debug\QI4N.Framework.Runtime.Tests.dll
+C:\Projects\tmp\QI4N\QI4N.Framework.Runtime.Tests\obj\Debug\QI4N.Framework.Runtime.Tests.pdb
